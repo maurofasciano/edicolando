@@ -1,0 +1,13 @@
+
+## disabilita il salvataggio della cartella di Visual Studio e tutte le subfolders
+.vs/
+
+# Build result - Cartelle standard comuni che solitamente sono ignorate
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
