@@ -23,8 +23,6 @@ namespace Edicolando.Heaven.Core.Entities
 
         public string categorydescription { get; set; } // Variabile della descrizione della categoria, di tipo string
 
-        public int racommandedage { get; set; } // Variabile della età target raccomandata, di tipo integer
-
         public DateTime categorycreationdate { get; set; } // Variabile della data di creazione categoria, ti tipo metodo DateTime
 
         public DateTime categoryupdatedate { get; set; }  // Variabile della data di modifica categoria, ti tipo metodo DateTime

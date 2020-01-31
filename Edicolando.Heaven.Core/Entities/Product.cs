@@ -25,6 +25,8 @@ namespace Edicolando.Heaven.Core.Entities
 
         public string productqrcode { get; set; } // Variabile del QRCode, di tipo stringa
 
+        public int racommandedage { get; set; } // Variabile della età target raccomandata, di tipo integer
+
         public DateTime productcreationdate { get; set; } // Variabile della data di creazione prodotto, ti tipo metodo DateTime
 
         public DateTime productupdatedate { get; set; } // Variabile della data di modifica prodotto, ti tipo metodo DateTime
